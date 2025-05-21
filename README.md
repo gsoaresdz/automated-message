@@ -117,8 +117,9 @@ $ git clone https://github.com/gsoaresdz/automacao-mensagem.git
 
 ## :memo: License
 
-This project is licensed under the MIT License. For more details, check the [LICENSE](LICENSE file.
+This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
 Made with :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
 
 <a href="#top">Back to top</a>
+
